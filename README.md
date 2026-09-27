@@ -1,4 +1,4 @@
-# ZhuQuSkill — 短视频脚本创作 + 本地素材解析
+# ZhuaQuSkill — 短视频脚本创作 + 本地素材解析
 
 一套给内容创作者用的组合包：**装好后自动引导你在本地跑起解析服务，然后就能拉真实对标视频、拆解结构、写脚本。**
 
@@ -7,7 +7,7 @@
 ## 这个包里有啥
 
 ```
-ZhuQuSkill/
+ZhuaQuSkill/
 ├── README.md              ← 你正在看的文件
 ├── skill/                 ← 脚本创作 Skill（装进 Hermes/Claude 等 Agent 即用）
 │   ├── SKILL.md
@@ -27,7 +27,7 @@ ZhuQuSkill/
 
 ### 第 1 步：装 Skill
 把 `skill/` 整个文件夹丢进你的 Agent 技能目录。
-- Hermes：`~/.hermes/skills/ZhuQuSkill/`
+- Hermes：`~/.hermes/skills/ZhuaQuSkill/`
 - 其他 Agent：放进对应的 skills 目录
 
 装完后跟 Agent 说一句"**装好了，帮我开始**"，它会自动引导你走完下面两步。

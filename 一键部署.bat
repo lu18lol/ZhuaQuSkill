@@ -3,7 +3,7 @@ chcp 65001 >nul
 cd /d "%~dp0"
 echo.
 echo ================================================
-echo   ZhuQuSkill 本地部署引导 (Windows)
+echo   ZhuaQuSkill 本地部署引导 (Windows)
 echo ================================================
 echo.
 
